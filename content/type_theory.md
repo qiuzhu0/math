@@ -3,5 +3,5 @@ title: type theory
 ---
 
 $$
-ua : (A \sim B) \sim (A = B)
+ua : (A \simeq B) \simeq (A = B)
 $$
