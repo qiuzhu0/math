@@ -2,8 +2,6 @@
 title: type theory
 ---
 
-Welcome to my math documentation site.
-
 $$
-e^{i\pi} + 1 = 0
+ua : (A \sim B) \sim (A = B)
 $$
